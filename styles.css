@@ -1,0 +1,33 @@
+body {background-color: black;
+}
+.Bestmovie {
+    font-size: 30px;
+    text-align: center;
+    color: Orange;
+}
+.bestgame {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+.musicartist {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+.food {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+h1 {
+    color: Orange;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
